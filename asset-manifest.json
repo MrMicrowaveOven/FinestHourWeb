@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/FinestHourWeb/static/css/main.073c9b0a.css",
-    "main.js": "/FinestHourWeb/static/js/main.abb0dde6.js",
+    "main.css": "/FinestHourWeb/static/css/main.e6c13ad2.css",
+    "main.js": "/FinestHourWeb/static/js/main.76190aff.js",
     "static/js/787.01b74870.chunk.js": "/FinestHourWeb/static/js/787.01b74870.chunk.js",
-    "static/media/logo.svg": "/FinestHourWeb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/FinestHourWeb/index.html",
-    "main.073c9b0a.css.map": "/FinestHourWeb/static/css/main.073c9b0a.css.map",
-    "main.abb0dde6.js.map": "/FinestHourWeb/static/js/main.abb0dde6.js.map",
+    "main.e6c13ad2.css.map": "/FinestHourWeb/static/css/main.e6c13ad2.css.map",
+    "main.76190aff.js.map": "/FinestHourWeb/static/js/main.76190aff.js.map",
     "787.01b74870.chunk.js.map": "/FinestHourWeb/static/js/787.01b74870.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.abb0dde6.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.76190aff.js"
   ]
 }
