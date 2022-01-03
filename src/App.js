@@ -1,8 +1,8 @@
-import Map from './components/Map'
+import MapContainer from './components/MapContainer'
 
 function App() {
   return (
-    <Map />
+    <MapContainer />
   );
 }
 
